@@ -1,0 +1,102 @@
+Name of Train: Green Line Express
+ID of Train: pk001
+	Name of Stop 1: Rawalpindi
+		Arrival Time: 05:30
+		Departure Time: 06:00
+	Name of Stop 2: Lahore
+		Arrival Time: 10:15
+		Departure Time: 10:45
+	Name of Stop 3: Bahawalpur
+		Arrival Time: 15:50
+		Departure Time: 16:20
+	Name of Stop 4: Hyderabad
+		Arrival Time: 01:30 (Next day)
+		Departure Time: 02:00
+	Name of Stop 5: Karachi
+		Arrival Time: 04:30
+		Departure Time: 05:30 (Back to Rawalpindi)
+Name of Train: Awam Express
+ID of Train: pk002
+	Name of Stop 1: Peshawar
+		Arrival Time: 12:00
+		Departure Time: 12:15
+	Name of Stop 2: Jehlum
+		Arrival Time: 17:15
+		Departure Time: 17:30
+	Name of Stop 3: Sahiwal
+		Arrival Time: 22:50
+		Departure Time: 23:05
+	Name of Stop 4: Khanpur
+		Arrival Time: 05:30 (Next Day)
+		Departure Time: 05:45
+	Name of Stop 5: Karachi
+		Arrival Time: 15:20 
+		Departure Time: 00:00 (Back to Peshawar)
+Name of Train: Bolan Mail
+ID of Train: pk003
+	Name of Stop 1: Karachi
+		Arrival Time: 05:00
+		Departure Time: 06:00
+	Name of Stop 2: Larkana
+		Arrival Time: 12:00
+		Departure Time: 13:00
+	Name of Stop 3: Jacobabad
+		Arrival Time: 14:30
+		Departure Time: 15:30
+	Name of Stop 4: Sibi
+		Arrival Time: 18:30
+		Departure Time: 19:30
+	Name of Stop 5: Quetta
+		Arrival Time: 22:45
+		Departure Time: 00:00
+Name of Train: Shah Latif Express
+ID of Train: pk004
+	Name of Stop 1: Mirpur Khas
+		Arrival Time: 14:00
+		Departure Time: 14:30
+	Name of Stop 2: Tando Jam
+		Arrival Time: 15:25
+		Departure Time: 15:55
+	Name of Stop 3: Kotri
+		Arrival Time: 16:40
+		Departure Time: 17:10
+	Name of Stop 4: Jhimpir
+		Arrival Time: 17:50
+		Departure Time: 18:20
+	Name of Stop 5: Dhabeji
+		Arrival Time: 19:55
+		Departure Time: 20:30 (Back to Mirpur Khas)
+Name of Train: Rohi Fast Express
+ID of Train: pk005
+	Name of Stop 1: Sukkur
+		Arrival Time: 07:50
+		Departure Time: 08:00
+	Name of Stop 2: Pani Akil
+		Arrival Time: 08:50
+		Departure Time: 09:00
+	Name of Stop 3: Sarhad
+		Arrival Time: 09:35
+		Departure Time: 09:45
+	Name of Stop 4: Reti
+		Arrival Time: 10:40
+		Departure Time: 10:50
+	Name of Stop 5: Rahim Yar Khan
+		Arrival Time: 11:00
+		Departure Time: 11:30 (Back to Sukkur)
+Name of Train: Shalimar Express
+ID of Train: pk006
+	Name of Stop 1: Lahore
+		Arrival Time: 05:55
+		Departure Time: 06:00
+	Name of Stop 2: Faisalabad
+		Arrival Time: 08:05
+		Departure Time: 08:10
+	Name of Stop 3: Multan
+		Arrival Time: 11:20
+		Departure Time: 11:25
+	Name of Stop 4: Hyderabad
+		Arrival Time: 22:10
+		Departure Time: 22:15
+	Name of Stop 5: Karachi
+		Arrival Time: 00:45 (Next Day)
+		Departure Time: 05:55 (Back to Lahore)

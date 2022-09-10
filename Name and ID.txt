@@ -1,0 +1,18 @@
+Name of Train: Green Line Express
+ID of Train: pk001
+
+Name of Train: Awam Express
+ID of Train: pk002
+
+Name of Train: Bolan Mail
+ID of Train: pk003
+
+Name of Train: Shah Latif Express
+ID of Train: pk004
+
+Name of Train: Rohi Fast Express
+ID of Train: pk005
+
+Name of Train: Shalimar Express
+ID of Train: pk006
+

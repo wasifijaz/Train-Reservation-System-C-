@@ -1,0 +1,17 @@
+Name of Train: Green Line Express
+ID of Train: pk001
+	Name of Stop 1: Rawalpindi
+		Arrival Time: 05:30
+		Departure Time: 06:00
+	Name of Stop 2: Lahore
+		Arrival Time: 10:15
+		Departure Time: 10:45
+	Name of Stop 3: Bahawalpur
+		Arrival Time: 15:50
+		Departure Time: 16:20
+	Name of Stop 4: Hyderabad
+		Arrival Time: 01:30 (Next day)
+		Departure Time: 02:00
+	Name of Stop 5: Karachi
+		Arrival Time: 04:30
+		Departure Time: 05:30 (Back to Rawalpindi)

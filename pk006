@@ -1,0 +1,17 @@
+Name of Train: Shalimar Express
+ID of Train: pk006
+	Name of Stop 1: Lahore
+		Arrival Time: 05:55
+		Departure Time: 06:00
+	Name of Stop 2: Faisalabad
+		Arrival Time: 08:05
+		Departure Time: 08:10
+	Name of Stop 3: Multan
+		Arrival Time: 11:20
+		Departure Time: 11:25
+	Name of Stop 4: Hyderabad
+		Arrival Time: 22:10
+		Departure Time: 22:15
+	Name of Stop 5: Karachi
+		Arrival Time: 00:45 (Next Day)
+		Departure Time: 05:55 (Back to Lahore)

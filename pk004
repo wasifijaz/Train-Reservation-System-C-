@@ -1,0 +1,17 @@
+Name of Train: Shah Latif Express
+ID of Train: pk004
+	Name of Stop 1: Mirpur Khas
+		Arrival Time: 14:00
+		Departure Time: 14:30
+	Name of Stop 2: Tando Jam
+		Arrival Time: 15:25
+		Departure Time: 15:55
+	Name of Stop 3: Kotri
+		Arrival Time: 16:40
+		Departure Time: 17:10
+	Name of Stop 4: Jhimpir
+		Arrival Time: 17:50
+		Departure Time: 18:20
+	Name of Stop 5: Dhabeji
+		Arrival Time: 19:55
+		Departure Time: 20:30 (Back to Mirpur Khas)

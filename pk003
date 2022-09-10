@@ -1,0 +1,17 @@
+Name of Train: Bolan Mail
+ID of Train: pk003
+	Name of Stop 1: Karachi
+		Arrival Time: 05:00
+		Departure Time: 06:00
+	Name of Stop 2: Larkana
+		Arrival Time: 12:00
+		Departure Time: 13:00
+	Name of Stop 3: Jacobabad
+		Arrival Time: 14:30
+		Departure Time: 15:30
+	Name of Stop 4: Sibi
+		Arrival Time: 18:30
+		Departure Time: 19:30
+	Name of Stop 5: Quetta
+		Arrival Time: 22:45
+		Departure Time: 00:00

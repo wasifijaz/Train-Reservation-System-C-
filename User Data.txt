@@ -1,0 +1,50 @@
+User ID: TR3203
+Name: Mir Abdul Basit
+CNIC: 37406-1978083-7
+City: Rawalpindi
+Destination: Karachi
+Travelling Date: 2-June-2019
+Train Booked: pk001
+No. of Tickets: 2
+Total Fare: 12000
+=========================================================================
+User ID: QB3798
+Name: Omer Mudassir
+CNIC: 37405-8025330-8
+City: Peshawar
+Destination: Sahiwal
+Travelling Date: 6-June-2019
+Train Booked: pk002
+No. of Tickets: 3
+Total Fare: 6000
+=========================================================================
+User ID: UA5232
+Name: Zain
+CNIC: 45646464546
+City: Peshawar
+Destination: Karachi
+Travelling Date: 32
+Train Booked: pk002
+No. of Tickets: 6
+Total Fare: 36000
+=========================================================================
+User ID: WD8454
+Name: Imran
+CNIC: 37405-9632556-8
+City: Rawalpindi
+Destination: Karachi
+Travelling Date: 28/7/19
+Train Booked: pk001
+No. of Tickets: 3
+Total Fare: 18000
+=========================================================================
+User ID: TS3385
+Name: Zohaib
+CNIC: 34506-9865741-2
+City: Rawalpindi
+Destination: Lahore
+Travelling Date: 5/12/2019
+Train Booked: pk001
+No. of Tickets: 3
+Total Fare: 3000
+=========================================================================
